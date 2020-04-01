@@ -4,7 +4,7 @@
   Api and show them on horizontal lists. On press the particular movie and it will go the detail page 
   of that movie and display relevant details about that movie. On go back press it will go back to dashboard.
   The app uses typescript as programming language, hooks for it's components and screens, redux for state management,
-  redux saga for fetch calls / async actions, react-navigation for moving between screens, styled-components for styling 
+  redux saga for async actions, react-navigation for moving between screens, styled-components for styling 
   and Jest for unit tests.
 
 
